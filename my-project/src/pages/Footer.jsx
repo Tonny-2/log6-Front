@@ -6,7 +6,6 @@ export default function Footer() {
             <p className="mb-2">&copy; 2024 MyProject. All rights reserved.</p>
 
             <div className="d-flex justify-content-center gap-3">
-                {/* X (Twitter) */}
                 <a
                     href="https://x.com/yourProfile"
                     target="_blank"
@@ -15,8 +14,6 @@ export default function Footer() {
                 >
                     X
                 </a>
-
-                {/* TikTok */}
                 <a
                     href="https://www.tiktok.com/@yourProfile"
                     target="_blank"
@@ -25,8 +22,6 @@ export default function Footer() {
                 >
                     TikTok
                 </a>
-
-                {/* Snapchat */}
                 <a
                     href="https://www.snapchat.com/add/yourProfile"
                     target="_blank"
@@ -35,8 +30,6 @@ export default function Footer() {
                 >
                     Snapchat
                 </a>
-
-                {/* Instagram */}
                 <a
                     href="https://www.instagram.com/yourProfile"
                     target="_blank"
